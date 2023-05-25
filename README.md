@@ -1,0 +1,3 @@
+# BattleShip
+Battleship is a popular board game involving 2 players. The aim of the game is for the players to place their ships on a grid and then guess the positions of their opponents’ ships. Full rules can be found here. https://www.thesprucecrafts.com/the-basic-rules-of-battleship-411069
+In this assessment you are being asked to program a simpler version of this game. Initially, the battleships will be placed on a 10x10 grid randomly, players will then proceed to guess where the ships are on the board. If they guess correctly, they ‘hit’ the battleship, otherwise they ‘miss’. The objective of the game for both players is to find and sink all the battleships on the board. The player who hits more ships than the other, wins after all ships have been destroyed.
